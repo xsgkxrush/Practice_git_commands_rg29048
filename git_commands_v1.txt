@@ -8,3 +8,5 @@ git SHOW HEAD
 git branch branch name
 git checkout branch name
 git branch -d branch name
+git push
+git set-upstream origin main
