@@ -3,4 +3,8 @@ git status
 git add <file-name>
 git commit -m "Commit message"
 git push 
-
+git reset HEAD <file-name>
+git SHOW HEAD
+git branch branch name
+git checkout branch name
+git branch -d branch name
