@@ -1,0 +1,6 @@
+1. git clone <origin-repository-path>
+git status
+git add <file-name>
+git commit -m "Commit message"
+git push 
+
